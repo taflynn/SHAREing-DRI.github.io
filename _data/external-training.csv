@@ -7,12 +7,12 @@ Efficient Parallel IO,EPCC/ARCHER2,Online,"Parallelism, I/O",https://www.archer2
 Advanced MPI,EPCC/ARCHER2,Online,"Parallelism, MPI",https://www.archer2.ac.uk/training/courses/index.html?dev=0&test=0&gapi=0&db=0&od=0&gh=0&gl=0&tr=0&browser=0&picker=0&mode=device&export=https%3A%2F%2Fconvert.diagrams.net%2Fnode%2Fexport&disableUpdate=0&enableSpellCheck=0&enableStoreBkp=1&isGoogleFontsEnabled=0&appLang=en-US#advanced-mpi
 Advanced OpenMP,EPCC/ARCHER2,Online,"Parallel-practice, OpenMP",https://www.archer2.ac.uk/training/courses/index.html?dev=0&test=0&gapi=0&db=0&od=0&gh=0&gl=0&tr=0&browser=0&picker=0&mode=device&export=https%3A%2F%2Fconvert.diagrams.net%2Fnode%2Fexport&disableUpdate=0&enableSpellCheck=0&enableStoreBkp=1&isGoogleFontsEnabled=0&appLang=en-US#advanced-openmp
 Single Node Performance Optimisation,EPCC/ARCHER2,Online,"Parallel-practice, OpenMP, Performance",https://www.archer2.ac.uk/training/courses/index.html?dev=0&test=0&gapi=0&db=0&od=0&gh=0&gl=0&tr=0&browser=0&picker=0&mode=device&export=https%3A%2F%2Fconvert.diagrams.net%2Fnode%2Fexport&disableUpdate=0&enableSpellCheck=0&enableStoreBkp=1&isGoogleFontsEnabled=0&appLang=en-US#single-node-performance-optimisation
-Core-Level Performance Engineering,NHR@FAU,Online/In-person/Organised with partners,"Parallel-practice, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#core-level-performance-engineering
-Node-Level Performance Engineering,NHR@FAU,Online/In-person/Organised with partners,"Parallel-practice, OpenMP, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#node-level-performance-engineering
+Core-Level Performance Engineering,NHR@FAU,Upcoming,"Parallel-practice, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#core-level-performance-engineering
+Node-Level Performance Engineering,NHR@FAU,Upcoming,"Parallel-practice, OpenMP, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#node-level-performance-engineering
 Introduction to the LIKWID Tool Suite,NHR@FAU,Online,"Parallel-practice, Tools",https://hpc.fau.de/teaching/tutorials-and-courses/#introduction-to-the-likwid-tool-suite
-GPU Performance Engineering,NHR@FAU,Online/In-person/Organised with partners,"Parallel-practice, GPU, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#gpu-performance-engineering
+GPU Performance Engineering,NHR@FAU,Upcoming,"Parallel-practice, GPU, Performance",https://hpc.fau.de/teaching/tutorials-and-courses/#gpu-performance-engineering
 NHR Perflab Seminar,NHR@FAU,Online,"Seminar, Community",https://hpc.fau.de/research/nhr-perflab-seminar-series/
-System, User and Developer Perspectives on Parallel I/O,NHR@GWDG,Online,"Parallelism, I/O",https://academy.gwdg.de/p/event.xhtml?id=6916eca65067a75055a4c0d1
+User and Developer Perspectives on Parallel I/O,NHR@GWDG,Online,"Parallelism, I/O",https://academy.gwdg.de/p/event.xhtml?id=6916eca65067a75055a4c0d1
 Deep Dive into Containers,NHR@GWDG,Online,"Parallel-practice, Containers",https://academy.gwdg.de/p/event.xhtml?id=6916faa15067a75055a4c0d7
 Using Jupyter Notebooks on HPC,NHR@GWDG,Online,,https://academy.gwdg.de/p/event.xhtml?id=69f72823e3e2557f1b42c63e
 Ansys on Cluster and Post-Processing of Simulation Results,NHR@GWDG,Online,User-specific,https://academy.gwdg.de/p/event.xhtml?id=69f72bc8e3e2557f1b42c646
